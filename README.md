@@ -14,8 +14,8 @@ Welcome to the Supply Chain Management System, a comprehensive solution designed
 
 Follow these steps to get the Supply Chain Management System up and running on your local machine:
 
-1. Clone the repository: `git clone https://github.com/alexpchin/supply-chain-management-system.git`
-2. Navigate to the project directory: `cd supply-chain-management-system`
+1. Clone the repository: `git clone https://github.com/V8V88V8V88/LogiChain.git`
+2. Navigate to the project directory: `cd LogiChain`
 3. Compile the Java files: `javac *.java`
 4. Run the application: `java Home`
 
